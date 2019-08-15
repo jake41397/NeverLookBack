@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathZone
+  - ScoreZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Stars
+  - Clouds
+  - Platforms
+  - Player
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 130777899
+    locked: 0
+  - name: Stars
+    uniqueID: 3115145329
+    locked: 0
+  - name: Clouds
+    uniqueID: 1142668517
+    locked: 0
+  - name: Platforms
+    uniqueID: 2540902431
+    locked: 0
+  - name: Player
+    uniqueID: 3385085443
+    locked: 0
+  - name: UI
+    uniqueID: 279810531
+    locked: 0
